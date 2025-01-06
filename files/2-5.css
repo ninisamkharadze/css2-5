@@ -76,6 +76,7 @@ h1 {
 
 #threeDivsIn {
     margin: 0 auto;
+    margin-bottom: 64px;
 }
 
 #firstBigDiv {
@@ -83,6 +84,7 @@ h1 {
     background-color: #fff;
     border-radius: 16px;
     margin: 0 auto;
+    margin-right: 14px;
 }
 
 #firstBigDivLittleDiv {
@@ -176,7 +178,7 @@ h1 {
     padding-left: 32px;
 }
 
-#tickDiv {
+.tickDiv {
     display: inline-block;
     max-width: 30px;
     
@@ -191,6 +193,7 @@ h1 {
     background-color: #fff;
     border-radius: 16px;
     margin: 0 auto;
+    margin-right: 14px;
 }
 
 #h2_1 {
@@ -228,9 +231,457 @@ h1 {
     border: 1px solid #E9D7FE;
     background: #F9F5FF;
     border-radius: 9999px;
-    width: 300px;
+    width: 120px;
     height: 28px;
     display: inline-block;
     margin-bottom: 16px;
 }
 
+#h2_2 {
+    font-size: 48px;
+    color: #181D27;
+    font-weight: 600;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+
+#advencedFeature {
+    font-size: 16px;
+    color: #535862;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+#threeSiblingDivMargins {
+    margin-right: 5px;
+}
+
+#thirdBigDiv {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#secondBigDivLittleDiv {
+    padding-top: 40px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#secondBigDivSecondLittleDiv {
+    display: block;
+    padding-bottom: 40px;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+#thirdBigDivLittleDiv {
+    padding-top: 40px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#thirdBigDivSecondLittleDiv {
+    display: block;
+    padding-bottom: 40px;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+
+
+
+
+
+
+
+#theQuestionsDiv {
+    max-width: 100%;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin-bottom: 64px;
+}
+
+#QuestionsH2 {
+    display: inline-block;
+    font-size: 40px;
+    color: #181D27;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#questionsP {
+    color: #535862;
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+
+#firstQuestionDiv {
+    background-color: #E4E4E4;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+#firstQuestion {
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+#firstQuestionAnswer {
+    color: #535862;
+    font-size: 16px;
+    text-align: left;
+}
+
+#secondQuestionDiv {
+    background-color: #FFE5E5;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    border-radius: 16 px;
+    border: 2px solid #FF2323;
+}
+
+#secondQuestion {
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+#secondQuestionAnswer {
+    color: #535862;
+    font-size: 16px;
+    text-align: left;
+}
+
+#thirdQuestionDiv {
+    background-color: #E9D7FF;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+#thirdQuestion {
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+#thirdQuestionAnswer {
+    color: #535862;
+    font-size: 16px;
+    text-align: left;
+}
+
+.questions {
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+.answers {
+    color: #535862;
+    font-size: 16px;
+    text-align: left;
+}
+
+#forthQuestionDiv {
+    background-color: #F7F4FF;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+#fifthQuestionDiv {
+    background-color: #DCE6FF;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    border: 4px solid #326DFF;
+}
+
+#sixthQuestonDiv {
+    background-color: #FFD5E7;
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+#rewiewsMainDiv {
+    max-width: 80%;
+    background-color: #fff;
+    border-radius: 24px;
+    margin: 0 auto;
+    padding-top: 32px;
+}
+
+#overwiewsH2 {
+    font-size: 40px;
+    text-align: center;
+    color: #181D27;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#owerwiewMainP {
+    font-size: 24px;
+    color: #535862;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+#footerMainDiv {
+    background-color: #F1E8FF;
+    max-width: 89%;
+    margin: auto;
+    margin-bottom: 203px;
+    padding-bottom: 96px;
+}
+
+#rewiewsmLeftMainDiv {
+    padding: 32px;
+    width: 50%;
+}
+
+#topDivP {
+    font-size: 20px;
+    color: #181D27;
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 80px;
+}
+
+#topDivImg {
+    width: 48px;
+    height: 48px;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#spanDiv {
+    vertical-align: middle;
+}
+
+#firstAvatarNextTo {
+    font-size: 12px;
+    color: #181D27;
+    font-weight: 600;
+}
+
+#secondAvatarNextTo {
+    font-size: 16px;
+    color: #535862;
+}
+
+#companyLogo {
+    width: 134px;
+    height: 32px;
+    text-align: right;
+}
+
+#imgDiv {
+    text-align: right;
+}
+
+#topDiv {
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    padding: 32px;
+    margin-bottom: 24px;
+}
+
+#bottomDiv {
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+}
+
+#bottomP {
+    font-size: 20px;
+    color: #181D27;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+#boy {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999;
+    border: 0.75px solid rgba(0, 0, 0, 0.08);
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#spansDiv {
+    max-width: 150px;
+    vertical-align: middle;
+}
+
+#bottomFirstSpan {
+    font-size: 18px;
+    color: #181D27;
+    line-height: 28px;
+    vertical-align: middle;
+}
+
+#bottomSecondSpan {
+    color: #535862;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+#secondCompanyLogo {
+    width: 112px;
+    height: 32px;
+    display: block;
+    margin-left: auto;
+}
+
+#littleTick {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+#rewiewsRightMainDiv {
+    padding: 32px;
+    width: 50%;
+}
+
+#topDiv1 {
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    padding: 32px;
+    margin-bottom: 24px;
+    display: inline-block;
+}
+
+#bottomDiv1 {
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    padding: 32px;
+    margin-bottom: 24px;
+    vertical-align: middle;
+}
+
+#topDiv1P {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181D27;
+    line-height: 30px;
+    margin-bottom: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#manImg {
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#firstSpan {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #181D27;
+    vertical-align: middle;
+}
+
+#secondSpan {
+    font-size: 16px;
+    line-height: 28px;
+    color: #535862;
+}
+
+#spansdiv {
+    width: 120px;
+    vertical-align: middle;
+}
+
+#companyLOgo1 {
+    width: 126px;
+    height: 32px;
+    display: block;
+    margin-left: auto;
+}
+
+#tick {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+#bottomDiv1P {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 80px;
+}
+
+#manLittleImg {
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+}
+
+#divSpan {
+    vertical-align: middle;
+}
+
+#span {
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#span2 {
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#company2 {
+    width: 108px; 
+    height: 32px;
+    display: block;
+    margin-left: auto;
+}
+
+footer {
+    display: inline;
+}
