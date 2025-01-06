@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navDiv {
+    padding: 12px 32px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #FBF9FF;
+    margin-bottom: 131px;
+}
+
+#navLogo {
+    max-width: 147px;
+    width: 100%;
+    height: 100%;
+    max-height: 21px;
+    padding: 13.49px;
+    margin-right: 670.67px;
+    vertical-align: middle;
+}
+
+.navAs {
+    text-decoration: none;
+    color: #323232;
+    font-size: 18px;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+#navButton {
+    border:1px solid #6941C6;;
+    border-radius: 8px;
+    background-color: #6941C6;;
+    color: #fff;
+    font-size: 14px;
+    max-width: 105px;
+    width: 100%;
+    max-height: 33px;
+    height: 100%;
+    padding: 8px 16px;
+    display: inline-block;
+}
+
+#navButtonDiv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 102px;
+}
+
+
+/*--------------------------------------------main---------------------------------------------------*/
+
+#theMainDiv {
+    margin: 0 auto;
+    width: 75%;
+    background-color: #F1E8FF;
+    padding: 96px;
+    display: block;
+}
+
+h1 {
+    font-size: 40px;
+    color: #181D27;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#pricingP {
+    font-size: 24px;
+    color: #535862;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+#threeDivsIn {
+    margin: 0 auto;
+}
+
+#firstBigDiv {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#firstBigDivLittleDiv {
+    padding-top: 40px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#basicPlanButton {
+    background-color: #fff;
+    color: #6941C6;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border-radius: 9999px;
+    width: 93px;
+    height: 28px;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+#h2 {
+    font-size: 48px;
+    color: #181D27;
+    font-weight: 600;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+
+#just {
+    text-align: center;
+}
+
+#popularPlan {
+    font-size: 16px;
+    color: #535862;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+#purpleButton {
+    background-color: #7F56D9;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 12px 18px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 12px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#whiteButton {
+    font-size: 16px;
+    font-weight: 600;
+    max-width: 309px;
+    width: 100%;
+    line-height: 24px;
+    color: #414651;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    padding: 12px 18px;
+}
+
+.firstBigDivFirstLittledivLiStyles {
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+}
+
+#liDiv {
+    margin: 0 auto;
+}
+
+.verticalalign {
+    vertical-align: middle;
+}
+
+#firstBigDivSecondLittleDiv {
+    
+    display: block;
+    padding-bottom: 40px;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+#tickDiv {
+    display: inline-block;
+    max-width: 30px;
+    
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+#secondBigDiv {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#h2_1 {
+    font-size: 48px;
+    color: #181D27;
+    font-weight: 600;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+
+#growingTeamsP {
+    font-size: 16px;
+    color: #535862;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+#businessButton {
+    background-color: #fff;
+    color: #6941C6;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border-radius: 9999px;
+    width: 93px;
+    height: 28px;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+#enterpriseButton {
+    background-color: #fff;
+    color: #6941C6;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border-radius: 9999px;
+    width: 300px;
+    height: 28px;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
